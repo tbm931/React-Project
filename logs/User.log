@@ -1,0 +1,8 @@
+[2025-07-01T14:26:07.675] [INFO] user - User created successfully: {"userName":"תמר ששון","idNumber":"123456789","pw":"$2b$10$gsihNltF5qGEGUhAvnST1OnLgI7ad659fZ0vTYj/6nn40tk3VfI7y"}
+[2025-07-01T14:28:18.148] [INFO] user - User created successfully: {"userName":"שושנה לוי","idNumber":"987654321","pw":"$2b$10$PCIcF0tyVH8hK4C3ioDHPuphX/ziUb7UBzv.UiZyZo.NaKwH0.ICy"}
+[2025-07-01T14:31:56.436] [INFO] user - User created successfully: {"userName":"ארנון כהן","idNumber":"963258741","pw":"$2b$10$JzCcPLItU0v0W47LWp5by.In812qWXYn1FyYAghah.shptPe6zvVi"}
+[2025-07-01T14:34:38.381] [INFO] user - User created successfully: {"userName":"אלישבע קורן","idNumber":"147852369","pw":"$2b$10$oJHsjImfn6JoO5Dpb6B1lO6cWnwO9lhrDTkOMdb3RlNykLUmuBaxW"}
+[2025-07-01T14:39:53.833] [INFO] user - User created successfully: {"userName":"דניאל הולנדי","idNumber":"789456123","pw":"$2b$10$D8TLHuFKcn7dkFXPhvUT3uuiaAGcDsD.xzAz9TQHhtjTnreLHJYoi"}
+[2025-07-01T14:41:11.320] [INFO] user - User sign in attempt: דניאל הולנדי - Success
+[2025-07-01T14:57:12.734] [INFO] user - User sign in attempt: דניאל הולנדי - Success
+[2025-07-01T15:01:04.933] [INFO] user - User sign in attempt: דניאל הולנדי - Success
