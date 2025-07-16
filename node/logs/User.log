@@ -1,0 +1,339 @@
+[2025-07-01T14:26:07.675] [INFO] user - User created successfully: {"userName":"תמר ששון","idNumber":"123456789","pw":"$2b$10$gsihNltF5qGEGUhAvnST1OnLgI7ad659fZ0vTYj/6nn40tk3VfI7y"}
+[2025-07-01T14:28:18.148] [INFO] user - User created successfully: {"userName":"שושנה לוי","idNumber":"987654321","pw":"$2b$10$PCIcF0tyVH8hK4C3ioDHPuphX/ziUb7UBzv.UiZyZo.NaKwH0.ICy"}
+[2025-07-01T14:31:56.436] [INFO] user - User created successfully: {"userName":"ארנון כהן","idNumber":"963258741","pw":"$2b$10$JzCcPLItU0v0W47LWp5by.In812qWXYn1FyYAghah.shptPe6zvVi"}
+[2025-07-01T14:34:38.381] [INFO] user - User created successfully: {"userName":"אלישבע קורן","idNumber":"147852369","pw":"$2b$10$oJHsjImfn6JoO5Dpb6B1lO6cWnwO9lhrDTkOMdb3RlNykLUmuBaxW"}
+[2025-07-01T14:39:53.833] [INFO] user - User created successfully: {"userName":"דניאל הולנדי","idNumber":"789456123","pw":"$2b$10$D8TLHuFKcn7dkFXPhvUT3uuiaAGcDsD.xzAz9TQHhtjTnreLHJYoi"}
+[2025-07-01T14:41:11.320] [INFO] user - User sign in attempt: דניאל הולנדי - Success
+[2025-07-01T14:57:12.734] [INFO] user - User sign in attempt: דניאל הולנדי - Success
+[2025-07-01T15:01:04.933] [INFO] user - User sign in attempt: דניאל הולנדי - Success
+[2025-07-06T14:54:14.994] [INFO] user - User sign in attempt: תמר ששון - Failed
+[2025-07-06T14:55:47.246] [INFO] user - User sign in attempt: תמר ששון - Failed
+[2025-07-06T14:58:11.085] [INFO] user - User sign in attempt: תמר ששון - Failed
+[2025-07-06T14:59:39.353] [INFO] user - User sign in attempt: תמר ששון - Failed
+[2025-07-06T15:05:05.631] [INFO] user - User sign in attempt: תמר ששון - Failed
+[2025-07-06T15:05:56.503] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-06T15:06:51.814] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-06T15:08:37.078] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-06T15:11:41.889] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-06T15:12:01.870] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-06T15:12:19.727] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-06T15:14:42.143] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-06T15:14:56.973] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-06T15:15:49.100] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-06T15:16:53.864] [INFO] user - Client sign in attempt: ישי כהן - Failed
+[2025-07-06T15:17:31.521] [INFO] user - Client sign in attempt: ישי כהן - Failed
+[2025-07-06T15:19:26.675] [INFO] user - Client sign in attempt: ישי כהן - Failed
+[2025-07-06T15:20:27.693] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-06T15:21:10.209] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-06T15:22:32.650] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-06T15:22:56.260] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-06T15:23:38.221] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-06T15:28:34.245] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-06T15:29:32.196] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-06T15:31:38.604] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-06T15:32:59.320] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-06T15:44:14.931] [ERROR] user - Failed to create user or client: undefined. Error: Error: data and salt arguments required
+[2025-07-06T15:44:51.654] [ERROR] user - Failed to create user or client: undefined. Error: Error: data and salt arguments required
+[2025-07-06T15:46:58.491] [ERROR] user - Failed to create user or client: undefined. Error: Error: data and salt arguments required
+[2025-07-06T15:47:49.267] [ERROR] user - Failed to create user or client: undefined. Error: Error: data and salt arguments required
+[2025-07-06T15:48:11.422] [ERROR] user - Failed to create user or client: undefined. Error: Error: data and salt arguments required
+[2025-07-06T15:51:06.643] [ERROR] user - Failed to create user or client: undefined. Error: SequelizeValidationError: notNull Violation: Users.userName cannot be null
+[2025-07-06T15:52:24.884] [ERROR] user - Failed to create user or client: undefined. Error: SequelizeValidationError: notNull Violation: Users.userName cannot be null
+[2025-07-06T15:53:09.409] [ERROR] user - Failed to create user or client: undefined. Error: SequelizeValidationError: notNull Violation: Users.userName cannot be null
+[2025-07-06T15:53:48.595] [INFO] user - Client created: חנהלה
+[2025-07-06T15:54:22.237] [INFO] user - Client sign in attempt: חנהלה - Success
+[2025-07-06T16:00:37.907] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-06T16:44:46.793] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-07T09:59:48.338] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-07T10:01:00.078] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-07T10:03:38.542] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-07T10:07:41.704] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-07T10:10:30.989] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-07T10:13:24.147] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-07T10:16:44.023] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-07T10:19:50.939] [ERROR] user - User or client not found: 
+[2025-07-07T10:19:57.208] [ERROR] user - User or client not found: 
+[2025-07-07T10:19:58.386] [ERROR] user - User or client not found: 
+[2025-07-07T10:20:01.574] [ERROR] user - User or client not found: 
+[2025-07-07T10:20:01.895] [ERROR] user - User or client not found: 
+[2025-07-07T10:20:02.043] [ERROR] user - User or client not found: 
+[2025-07-07T10:21:35.348] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-07T10:22:54.769] [ERROR] user - User or client not found: 
+[2025-07-07T10:23:23.152] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-07T10:26:46.323] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-07T10:30:09.325] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-07T10:47:05.677] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-07T11:00:21.600] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-07T11:00:55.996] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-07T11:03:32.709] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-07T11:04:44.835] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-07T11:22:10.451] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-07T11:29:35.170] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-07T11:30:58.408] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-07T11:41:29.008] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-07T11:49:22.191] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-07T11:52:44.849] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-07T12:08:02.788] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-07T12:12:05.069] [INFO] user - User sign in attempt: שושנה לוי - Success
+[2025-07-07T12:12:42.249] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-07T12:14:15.333] [INFO] user - User sign in attempt: שושנה לוי - Success
+[2025-07-07T12:14:59.901] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-07T12:17:15.876] [INFO] user - User sign in attempt: שושנה לוי - Success
+[2025-07-07T12:21:55.530] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-07T12:25:49.803] [INFO] user - User sign in attempt: שושנה לוי - Success
+[2025-07-07T12:26:12.830] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-07T12:29:35.931] [INFO] user - User sign in attempt: שושנה לוי - Success
+[2025-07-07T12:33:27.872] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-07T12:34:30.778] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-07T12:35:07.418] [INFO] user - User sign in attempt: שושנה לוי - Success
+[2025-07-07T12:36:14.664] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-07T12:37:38.335] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-07T12:41:03.840] [INFO] user - User sign in attempt: שושנה לוי - Success
+[2025-07-07T12:49:46.750] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-07T12:52:22.697] [INFO] user - User sign in attempt: שושנה לוי - Success
+[2025-07-07T13:13:52.487] [ERROR] user - User or client not found: 
+[2025-07-07T13:14:13.261] [ERROR] user - User or client not found: 
+[2025-07-07T13:15:03.552] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-07T13:20:19.210] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-07T13:20:37.983] [INFO] user - User sign in attempt: שושנה לוי - Success
+[2025-07-07T13:21:09.470] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-07T13:53:20.040] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-07T14:48:07.645] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-07T14:51:20.020] [INFO] user - Client sign in attempt: ישי כהן - Failed
+[2025-07-07T14:51:37.615] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-07T14:53:51.698] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-07T14:55:42.754] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-07T14:57:04.163] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-07T14:58:22.129] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-07T15:00:01.020] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-07T15:09:07.185] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-07T15:12:04.171] [ERROR] user - User or client not found: ישי כהו
+[2025-07-07T15:12:13.164] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-07T15:13:20.623] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-07T15:14:32.589] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-07T16:21:34.748] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-07T16:23:17.914] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-07T16:23:50.117] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-07T16:33:25.454] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-08T10:01:41.216] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-08T12:14:48.939] [ERROR] user - User or client not found: 
+[2025-07-08T12:19:14.348] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-08T13:32:18.263] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-08T13:58:43.885] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-08T14:43:07.090] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-08T14:46:31.644] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-09T10:28:35.823] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-09T10:55:37.683] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-09T11:03:20.009] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-09T11:10:29.719] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-09T11:36:48.242] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-09T11:37:33.586] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-09T11:39:50.789] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-09T11:41:26.817] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-09T11:44:04.805] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-09T11:45:17.176] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-09T11:46:53.943] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-09T11:48:50.567] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-09T12:01:18.196] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-09T12:02:56.843] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-09T12:03:31.694] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-09T12:04:00.778] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-09T12:05:38.716] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-09T13:29:15.831] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-09T13:29:40.818] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-09T13:30:45.728] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-09T13:31:50.287] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-09T13:33:34.786] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-09T13:34:23.040] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-09T13:35:45.352] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-09T13:36:10.971] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-09T13:47:12.992] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-09T13:48:55.498] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-09T13:49:38.931] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-09T13:50:36.753] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-09T13:51:43.160] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-09T13:54:18.856] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-09T13:55:31.896] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-09T14:43:32.965] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-09T14:53:36.954] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-09T15:00:33.354] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-09T15:26:21.586] [INFO] user - User sign in attempt: שושנה לוי - Success
+[2025-07-09T15:39:42.165] [INFO] user - User sign in attempt: שושנה לוי - Success
+[2025-07-09T15:46:25.786] [INFO] user - User sign in attempt: דניאל הולנדי - Success
+[2025-07-09T15:52:04.246] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-10T10:07:53.886] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-10T10:13:56.231] [INFO] user - User sign in attempt: שושנה לוי - Success
+[2025-07-10T10:15:54.096] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-10T10:17:53.778] [INFO] user - User sign in attempt: אלישבע קורן - Success
+[2025-07-10T10:23:36.568] [ERROR] user - Failed to create user: SequelizeValidationError: notNull Violation: Business.businessName cannot be null,
+notNull Violation: Business.businessAddress cannot be null,
+notNull Violation: Business.phone cannot be null,
+notNull Violation: Business.email cannot be null,
+notNull Violation: Business.details cannot be null
+[2025-07-10T10:35:23.436] [ERROR] user - Failed to create user: SequelizeValidationError: notNull Violation: Business.businessName cannot be null,
+notNull Violation: Business.businessAddress cannot be null,
+notNull Violation: Business.phone cannot be null,
+notNull Violation: Business.email cannot be null,
+notNull Violation: Business.details cannot be null
+[2025-07-10T10:36:53.146] [ERROR] user - Failed to create user: SequelizeValidationError: notNull Violation: Business.businessName cannot be null,
+notNull Violation: Business.businessAddress cannot be null,
+notNull Violation: Business.phone cannot be null,
+notNull Violation: Business.email cannot be null,
+notNull Violation: Business.details cannot be null
+[2025-07-10T10:38:07.432] [ERROR] user - Failed to create user: SequelizeValidationError: notNull Violation: Business.businessName cannot be null,
+notNull Violation: Business.businessAddress cannot be null,
+notNull Violation: Business.phone cannot be null,
+notNull Violation: Business.email cannot be null,
+notNull Violation: Business.details cannot be null
+[2025-07-10T10:42:47.147] [ERROR] user - Failed to create user: SequelizeValidationError: notNull Violation: Business.businessName cannot be null,
+notNull Violation: Business.businessAddress cannot be null,
+notNull Violation: Business.phone cannot be null,
+notNull Violation: Business.email cannot be null,
+notNull Violation: Business.details cannot be null
+[2025-07-10T10:47:09.034] [INFO] user - User created successfully: {"idNumber":"123654789","pw":"$2b$10$5O812N2sK0113TLxY4QJZOO8hCmCQqjGPJ6mth2gEggbAAdrU26sq","userName":"חיים שרעבי"}
+[2025-07-10T10:47:40.866] [INFO] user - User created successfully: {"idNumber":"123654789","pw":"$2b$10$VjcIyTV7VsJrN3P7W1bMoOVtyLbmqmrFDbN7yJzc03yUyOdlpR5ZO","userName":"חיים שרעבי"}
+[2025-07-10T10:50:33.145] [INFO] user - User created successfully: {"idNumber":"123654789","pw":"$2b$10$OEen.piS1Y/143Gf02wkMu8PrPl3Q1phfp5xME0UV4vX3XtfGkX3W","userName":"חיים שרעבי"}
+[2025-07-10T10:51:31.050] [INFO] user - User created successfully: {"idNumber":"123654789","pw":"$2b$10$c3sUvVnMGffZqgIjuWE.4ul6wUioTHEHNS9Fiimmb0SF69bGKRGH6","userName":"חיים שרעבי"}
+[2025-07-10T10:52:49.227] [INFO] user - User created successfully: {"idNumber":"123654789","pw":"$2b$10$X87ZcuZ90SxGzIaznjBdQu8SQIMhZdfMQWisJeAgSMTljw8QdFsyq","userName":"חיים שרעבי"}
+[2025-07-10T10:52:50.885] [INFO] user - User sign in attempt: חיים שרעבי - Success
+[2025-07-10T10:55:43.078] [INFO] user - User sign in attempt: דניאל הולנדי - Failed
+[2025-07-10T10:55:51.122] [INFO] user - User sign in attempt: דניאל הולנדי - Failed
+[2025-07-10T11:02:00.469] [INFO] user - User sign in attempt: דניאל הולנדי - Failed
+[2025-07-10T11:02:29.485] [INFO] user - User sign in attempt: דניאל הולנדי - Failed
+[2025-07-10T11:02:43.922] [INFO] user - User sign in attempt: דניאל הולנדי - Failed
+[2025-07-10T11:03:54.924] [INFO] user - User sign in attempt: דניאל הולנדי - Failed
+[2025-07-10T11:07:10.351] [ERROR] user - User or client not found: 
+[2025-07-10T11:08:31.806] [ERROR] user - User or client not found: 
+[2025-07-10T11:09:01.248] [INFO] user - User sign in attempt: דניאל הולנדי - Success
+[2025-07-10T11:11:17.635] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-10T11:11:49.620] [INFO] user - User sign in attempt: שושנה לוי - Success
+[2025-07-10T11:13:23.904] [INFO] user - User sign in attempt: אלישבע קורן - Success
+[2025-07-10T11:14:35.155] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-10T11:34:48.042] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-10T11:40:00.586] [INFO] user - User sign in attempt: דניאל הולנדי - Success
+[2025-07-10T11:42:51.660] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-10T11:47:51.274] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-10T12:20:42.930] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-10T12:21:16.992] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-10T12:37:12.265] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-10T12:38:16.935] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-10T12:39:55.583] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-10T12:47:23.008] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-10T13:19:33.685] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-10T14:21:22.852] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-14T09:54:18.492] [INFO] user - Client sign in attempt: שרה כהן - Failed
+[2025-07-14T09:54:29.329] [INFO] user - Client sign in attempt: שרה כהן - Failed
+[2025-07-14T09:54:30.654] [INFO] user - Client sign in attempt: שרה כהן - Failed
+[2025-07-14T09:54:30.841] [INFO] user - Client sign in attempt: שרה כהן - Failed
+[2025-07-14T09:54:31.016] [INFO] user - Client sign in attempt: שרה כהן - Failed
+[2025-07-14T09:54:31.175] [INFO] user - Client sign in attempt: שרה כהן - Failed
+[2025-07-14T09:56:48.907] [INFO] user - Client sign in attempt: שרה כהן - Failed
+[2025-07-14T09:58:15.103] [INFO] user - Client sign in attempt: שרה כהן - Failed
+[2025-07-14T10:01:41.634] [INFO] user - Client sign in attempt: שרה כהן - Failed
+[2025-07-14T10:09:40.174] [INFO] user - User sign in attempt: חיים שרעבי - Failed
+[2025-07-14T10:09:51.256] [ERROR] user - User or client not found: 
+[2025-07-14T10:13:41.261] [INFO] user - Client sign in attempt: חנהלה - Success
+[2025-07-14T11:28:51.350] [INFO] user - Client sign in attempt: חנהלה - Failed
+[2025-07-14T11:29:07.767] [INFO] user - Client sign in attempt: חנהלה - Failed
+[2025-07-14T11:31:29.369] [INFO] user - Client sign in attempt: חנהלה - Success
+[2025-07-14T11:35:44.434] [INFO] user - Client sign in attempt: חנהלה - Success
+[2025-07-14T11:38:41.759] [INFO] user - Client sign in attempt: חנהלה - Success
+[2025-07-14T12:19:50.792] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-14T12:57:33.775] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-14T12:59:27.758] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-14T12:59:59.490] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-14T13:02:24.288] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-14T13:09:22.381] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-14T13:10:33.872] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-14T13:11:51.928] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-14T13:12:40.779] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-14T13:28:52.833] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-14T13:29:45.409] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-14T13:31:01.129] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-14T13:33:06.403] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-14T13:36:47.689] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-14T13:38:32.668] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-14T13:39:46.653] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-14T13:41:22.166] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-14T13:47:17.993] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-14T14:12:07.119] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-14T14:14:13.438] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-14T14:19:11.413] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-14T14:21:49.514] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-14T14:23:23.871] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-14T17:25:46.907] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-15T16:02:30.032] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-15T16:10:29.770] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-15T16:16:50.209] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-15T16:17:56.859] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-15T16:18:25.165] [ERROR] user - User or client not found: מהכח
+[2025-07-15T17:26:27.739] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-15T17:48:41.053] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-15T18:08:57.784] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-15T18:23:28.602] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-15T18:48:52.947] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-15T18:51:40.069] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-15T18:54:46.063] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-15T18:56:57.184] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-15T19:00:51.490] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-16T09:21:36.265] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-16T09:23:13.534] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-16T09:43:04.006] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-16T11:05:20.911] [ERROR] user - Failed to create user: SequelizeValidationError: Validation error: Validation isEmail on email failed
+[2025-07-16T11:08:20.925] [INFO] user - Client created: עמרם גאון
+[2025-07-16T11:09:47.131] [INFO] user - Client created: עמרם גאון
+[2025-07-16T11:11:44.981] [INFO] user - Client created: עמרם גאון
+[2025-07-16T11:12:52.820] [INFO] user - Client created: עמרם גאון
+[2025-07-16T11:13:05.299] [INFO] user - Client sign in attempt: עמרם גאון - Success
+[2025-07-16T11:21:27.650] [ERROR] user - Failed to create user or client: undefined. Error: SequelizeValidationError: Validation error: Validation len on phone failed
+[2025-07-16T11:22:01.074] [ERROR] user - Failed to create user or client: undefined. Error: SequelizeValidationError: Validation error: Validation len on phone failed
+[2025-07-16T11:32:46.404] [ERROR] user - Failed to create user or client: undefined. Error: SequelizeValidationError: Validation error: Validation len on phone failed
+[2025-07-16T11:38:17.874] [INFO] user - Client created: חנוך אהרוני
+[2025-07-16T11:38:37.309] [INFO] user - Client sign in attempt: חנוך אהרוני - Success
+[2025-07-16T12:18:04.448] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-16T12:18:28.753] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-16T12:30:03.891] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-16T12:34:14.216] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-16T12:40:28.411] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-16T12:41:03.920] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-16T12:42:53.460] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-16T12:46:54.179] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-16T12:48:37.642] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-16T12:49:08.826] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-16T13:06:24.942] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-16T13:16:10.419] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-16T13:17:19.945] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-16T13:20:57.838] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-16T13:24:34.150] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-16T13:26:25.702] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-16T13:35:22.464] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-16T13:37:32.874] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-16T13:43:07.617] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-16T13:44:23.487] [INFO] user - Client sign in attempt: חנהלה - Failed
+[2025-07-16T13:44:48.287] [INFO] user - Client sign in attempt: חנהלה - Success
+[2025-07-16T13:45:23.931] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-16T15:43:49.033] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-16T15:44:42.339] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-16T15:53:56.613] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-16T15:56:41.140] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-16T16:00:18.615] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-16T16:00:36.086] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-16T16:04:46.872] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-16T16:07:57.506] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-16T16:15:20.295] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-16T16:19:21.900] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-16T16:20:01.425] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-16T16:20:54.329] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-16T16:22:31.425] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-16T16:25:09.560] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-16T16:27:07.104] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-16T16:29:33.199] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-16T16:29:52.392] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-16T16:32:02.525] [INFO] user - User sign in attempt: שושנה לוי - Success
+[2025-07-16T16:32:58.668] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-16T16:35:00.573] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-16T16:35:49.142] [INFO] user - Client sign in attempt: ישי כהן - Failed
+[2025-07-16T16:36:03.548] [INFO] user - Client sign in attempt: ישי כהן - Success
+[2025-07-16T16:36:26.801] [INFO] user - User sign in attempt: תמר ששון - Success
+[2025-07-16T16:46:28.742] [INFO] user - User sign in attempt: ארנון כהן - Success
+[2025-07-16T16:56:51.973] [INFO] user - User sign in attempt: תמר ששון - Success

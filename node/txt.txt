@@ -1,0 +1,133 @@
+{
+    "newService":{
+        "businessId":0,
+        "serviceName": "שיעור פסנתר למתחילים",
+        "serviceDescription": "היכרות עם קלידים, קריאת תווים בסיסית",
+        "durationMinutes": 45,
+        "price": 120,
+        "isActive": true
+    },
+    "businessName":"הסטודיו של תמר"
+}
+
+{
+    "newClient":{
+        "idNumber": "121212121",
+        "clientName": "שרה כהן",
+        "birthDate": "2025-06-19",
+        "phone": "0527569583",
+        "email": "s052@gmail.com",
+        "notes": "יבקיבאכטעגארגדחבעגכק"
+    }
+}
+
+{
+    "newBusiness":{
+        "businessAddress":"רח' התמר 10 חשמונאים",
+        "businessName":"הסטודיו של תמר",
+        "details":"סטודיו ללמודי נגינה מקצועיים. מגוון רחב של כלים. מיועד להרבה גילאים ורמות.",
+        "email":"tamarStudio@gmail.com",
+        "phone":"0542154582"
+    }
+}
+
+{
+    "password":"123aaa",
+    "userName":"תמר ששון"
+}
+
+
+http://localhost:8000/services/שיעור פסנתר למתחילים
+
+{
+     "newService":{
+        "businessId":0,
+        "serviceName": "שיעור פסנתר למתחילים",
+        "serviceDescription": "היכרות עם קלידים, קריאת תווים בסיסית",
+        "durationMinutes": 30,
+        "price": 80.9,
+        "isActive": false
+    },
+    "businessName":"הסטודיו של תמר"
+}
+
+
+{
+    "newUser":{
+        "userName":"דניאל לוי",
+        "idNumber":"987654321"
+        "pw":"aaa123"
+    },
+    "newBusiness":{
+        "businessName":"הקליניקה של דניאל",
+        "businessAdress":"רח' הדודאים 10 ירושלים",
+        "userId":0,
+        "email":"danielHolisty@gmail.com",
+        "phone":"0524487889",
+        "details":"דניאל הוא מטפל הוליסטי עצמאי שמפעיל קליניקה קטנה בתל אביב. הוא מציע מגוון טיפולים ושירותים ללקוחותיו, ביניהם: טיפול רפלקסולוגיה, עיסוי שוודי, ייעוץ תזונתי, סדנת מדיטציה קבוצתית"
+    }
+}
+
+{
+    "newUser":{
+        "userName":"תמר ששון",
+        "idNumber":"123456789",
+        "pw":"123aaa"
+    },
+    "newBusiness":{
+        "businessName":"הסטודיו של תמר",
+        "businessAddress":"רח' התמר 5 חשמונאים",
+        "userId":0,
+        "email":"tamarS@gmail.com",
+        "phone":"0521548432",
+        "details":"סטודיו ללמודי נגינה מקצועיים. מגוון רחב של כלים. מיועד להרבה גילאים ורמות."
+    }
+}
+
+
+{
+    "newUser":{
+        "userName":"תמר שבתאי",
+        "idNumber":"123456789",
+        "pw":"1234aaa"
+    }
+}
+
+{
+    "newMeeting":{
+        "clientId": 2,
+        "serviceId": 2,
+        "scheduledAt": "2025-06-19",
+        "durationMinutes": 60,
+        "meetingStatus": "Scheduled",
+        "notes": "gcyfdfteftftre",
+        "priceAtTime": 50,
+        "meetingDate": "2025-07-20"
+    }
+}
+
+{
+    "newMeeting":{
+        "clientId": 0,
+        "serviceId": 2,
+        "scheduledAt": "2025-06-19",
+        "durationMinutes": 50,
+        "meetingStatus": "Canceled",
+        "notes": "gcyfdfteftftre",
+        "priceAtTime": 100,
+        "meetingDate": "2025-07-10"
+    }
+}
+
+{
+    "newMeeting":{
+        "clientId": 0,
+        "serviceId": 2,
+        "scheduledAt": "2025-05-28",
+        "durationMinutes": 60,
+        "meetingStatus": "Completed",
+        "notes": "gcyfdfteftftre",
+        "priceAtTime": 50,
+        "meetingDate": "2025-06-10"
+    }
+}
