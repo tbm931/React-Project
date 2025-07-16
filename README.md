@@ -9,17 +9,9 @@
   npm install sequelize
 ESLint (ליצירת קונפיגורציה):
 
-bash
-Copy
-Edit
+
 npm init @eslint/config@latest
 Jest (לבדיקות יחידה):
 
-bash
-Copy
-Edit
 npm install --save-dev jest
 השימוש העיקרי במערכת הוא לקביעת פגישות עבור שירותים המוצעים על ידי עסקים שונים, וכן לאפשר למנהלים לצפות ולנהל את כל הפגישות שנקבעו.
-
-Copy
-Edit
