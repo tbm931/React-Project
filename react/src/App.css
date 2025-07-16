@@ -1,0 +1,30 @@
+#up{
+  margin-top: -350px;
+  margin-left: 20px;
+}
+
+#link{
+  margin-left: 20px;
+}
+
+#link2{
+  margin-left: 20px;
+}
+
+#center{
+  text-align: center;
+  margin-top: 250px;
+  margin-left: 15%;
+}
+
+.row-red {
+  background-color: red !important;
+}
+
+.row-orange {
+  background-color: orange  !important;
+}
+
+.row-green {
+  background-color: green !important;
+}

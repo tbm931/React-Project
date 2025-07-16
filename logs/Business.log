@@ -1,8 +1,0 @@
-[2025-07-01T14:26:07.674] [INFO] business - Business created successfully: {"businessName":"סטודיו למוסיקה וכלי נגינה","userId":1,"email":"tamar@gmail.com","phone":"0521478965","businessAddress":"רח' התמר 5 חשמונאים","details":"סטודיו ללימודי נגינה ותאוריה מוזיקלית. השיעורים מועברים על ידי צוות מקצועי וחם ומתאימים לקשת רחבה של גילאים ורמות."}
-[2025-07-01T14:28:18.147] [INFO] business - Business created successfully: {"businessName":"סטודיו ליוגה ופילאטיס","userId":2,"email":"shoshana@gmail.com","phone":"0521478965","businessAddress":"רח' השושנה 53","details":"סטודיו מקצועי לאנשים המחפשים שיפור בכושר וברוגע נפשי"}
-[2025-07-01T14:31:56.435] [INFO] business - Business created successfully: {"businessName":"סטודיו לצילום","userId":3,"email":"arnon@gmail.com","phone":"0548454511","businessAddress":"רח' הזית 45","details":"סטודיו מקצועי המציע צילומי חוץ, צילומי אירועים, צילומי פורטרט וסדנאות צילום למתחילים"}
-[2025-07-01T14:34:38.381] [INFO] business - Business created successfully: {"businessName":"סטודיו לאומנות ועבודות יד","userId":4,"email":"eli7@gmail.com","phone":"0553256980","businessAddress":"רח' התאנה 81","details":"סטודיו מקצועי המציע סדנאות ציור במגוון טכניקות וכלים  ויצירת תכשיטים וקדרות"}
-[2025-07-01T14:39:53.833] [INFO] business - Business created successfully: {"businessName":"הקליניקה של דניאל - טיפול הוליסטי","userId":5,"email":"danielhol@gmail.com","phone":"0553256980","businessAddress":"רח' טרומפלדור 5 תל אביב","details":"סטודיו מקצועי המציע טיפול רפלקסולוגיה, עיסוי שוודי, ייעוץ תזונתי וסדנת מוטיבציה חברתית"}
-[2025-07-01T14:41:11.318] [ERROR] business - getBusinessSignIn error: 
-[2025-07-01T14:57:12.732] [ERROR] business - getBusinessSignIn error: 
-[2025-07-01T15:01:04.929] [ERROR] business - getBusinessSignIn error: 
